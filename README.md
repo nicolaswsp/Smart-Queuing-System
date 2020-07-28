@@ -5,15 +5,15 @@ This project is a computer vision application developed with Intel Distribution 
 
 The following takes were perfomaned during this project execution:
 
-Proposed a possible hardware solution
-Built out your application and test its performance on the DevCloud using multiple hardware types
-Compared the performance to see which hardware performed best
-Revised your proposal based on the test results
+Proposed a possible hardware solution<br>
+Built out your application and test its performance on the DevCloud using multiple hardware types<br>
+Compared the performance to see which hardware performed best<br>
+Revised your proposal based on the test results<br>
 
 The three scenarios that were performed:
 
-Scenario 1: Manufacturing Sector
-Scenario 2: Retail Sector
+Scenario 1: Manufacturing Sector<br>
+Scenario 2: Retail Sector<br>
 Scenario 3: Transportation Sector
 
 The scenarios had specific constraints realated to the clients needs and budget. 
